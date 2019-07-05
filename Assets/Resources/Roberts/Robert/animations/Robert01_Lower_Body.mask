@@ -1,0 +1,189 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Robert01_Lower_Body
+  m_Mask: 01000000000000000000000001000000010000000000000000000000000000000000000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: group30
+    m_Weight: 1
+  - m_Path: group31
+    m_Weight: 1
+  - m_Path: Root
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Heel01
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Heel01/Robert L Heel03
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Heel01/Robert L Heel05
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Heel02
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Heel04
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert L Hip/Robert L Thigh/Robert L Calf/Robert L
+      Foot/Robert L Toe
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Heel01
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Heel01/Robert R Heel03
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Heel01/Robert R Heel05
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Heel02
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Heel04
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert R Hip/Robert R Thigh/Robert R Calf/Robert R
+      Foot/Robert R Toe
+    m_Weight: 1
+  - m_Path: Root/Robert Pelvis/Robert Spine
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert Head
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L Clavicle01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L Clavicle03
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger0
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger0/Robert L Finger01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger0/Robert L Finger01/Robert
+      L Finger02
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger1
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger1/Robert L Finger11
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger1/Robert L Finger11/Robert
+      L Finger12
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger2
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger2/Robert L Finger21
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert L Hand/Robert L Finger2/Robert L Finger21/Robert
+      L Finger22
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle/Robert
+      L UpperArm/Robert L Forearm/Robert nub01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle02
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert L Clavicle04
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R Clavicle01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R Clavicle03
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert nub02
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger0
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger0/Robert R Finger01
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger0/Robert R Finger01/Robert
+      R Finger02
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger1
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger1/Robert R Finger11
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger1/Robert R Finger11/Robert
+      R Finger12
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger2
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger2/Robert R Finger21
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle/Robert
+      R UpperArm/Robert R Forearm/Robert R Hand/Robert R Finger2/Robert R Finger21/Robert
+      R Finger22
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle02
+    m_Weight: 0
+  - m_Path: Root/Robert Pelvis/Robert Spine/Robert Spine01/Robert R Clavicle04
+    m_Weight: 0

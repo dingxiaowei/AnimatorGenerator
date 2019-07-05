@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: f41b69f6b5f368f409f9b99fd01cb1d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Robert Head
+    100002: Robert L Calf
+    100004: Robert L Clavicle
+    100006: Robert L Clavicle01
+    100008: Robert L Clavicle02
+    100010: Robert L Clavicle03
+    100012: Robert L Clavicle04
+    100014: Robert L Finger0
+    100016: Robert L Finger01
+    100018: Robert L Finger02
+    100020: Robert L Finger1
+    100022: Robert L Finger11
+    100024: Robert L Finger12
+    100026: Robert L Finger2
+    100028: Robert L Finger21
+    100030: Robert L Finger22
+    100032: Robert L Foot
+    100034: Robert L Forearm
+    100036: Robert L Hand
+    100038: Robert L Heel01
+    100040: Robert L Heel02
+    100042: Robert L Heel03
+    100044: Robert L Heel04
+    100046: Robert L Heel05
+    100048: Robert L Hip
+    100050: Robert L Thigh
+    100052: Robert L Toe
+    100054: Robert L UpperArm
+    100056: Robert nub01
+    100058: Robert nub02
+    100060: Robert Pelvis
+    100062: Robert R Calf
+    100064: Robert R Clavicle
+    100066: Robert R Clavicle01
+    100068: Robert R Clavicle02
+    100070: Robert R Clavicle03
+    100072: Robert R Clavicle04
+    100074: Robert R Finger0
+    100076: Robert R Finger01
+    100078: Robert R Finger02
+    100080: Robert R Finger1
+    100082: Robert R Finger11
+    100084: Robert R Finger12
+    100086: Robert R Finger2
+    100088: Robert R Finger21
+    100090: Robert R Finger22
+    100092: Robert R Foot
+    100094: Robert R Forearm
+    100096: Robert R Hand
+    100098: Robert R Heel01
+    100100: Robert R Heel02
+    100102: Robert R Heel03
+    100104: Robert R Heel04
+    100106: Robert R Heel05
+    100108: Robert R Hip
+    100110: Robert R Thigh
+    100112: Robert R Toe
+    100114: Robert R UpperArm
+    100116: Robert Spine
+    100118: Robert Spine01
+    100120: //RootNode
+    100122: Root
+    400000: Robert Head
+    400002: Robert L Calf
+    400004: Robert L Clavicle
+    400006: Robert L Clavicle01
+    400008: Robert L Clavicle02
+    400010: Robert L Clavicle03
+    400012: Robert L Clavicle04
+    400014: Robert L Finger0
+    400016: Robert L Finger01
+    400018: Robert L Finger02
+    400020: Robert L Finger1
+    400022: Robert L Finger11
+    400024: Robert L Finger12
+    400026: Robert L Finger2
+    400028: Robert L Finger21
+    400030: Robert L Finger22
+    400032: Robert L Foot
+    400034: Robert L Forearm
+    400036: Robert L Hand
+    400038: Robert L Heel01
+    400040: Robert L Heel02
+    400042: Robert L Heel03
+    400044: Robert L Heel04
+    400046: Robert L Heel05
+    400048: Robert L Hip
+    400050: Robert L Thigh
+    400052: Robert L Toe
+    400054: Robert L UpperArm
+    400056: Robert nub01
+    400058: Robert nub02
+    400060: Robert Pelvis
+    400062: Robert R Calf
+    400064: Robert R Clavicle
+    400066: Robert R Clavicle01
+    400068: Robert R Clavicle02
+    400070: Robert R Clavicle03
+    400072: Robert R Clavicle04
+    400074: Robert R Finger0
+    400076: Robert R Finger01
+    400078: Robert R Finger02
+    400080: Robert R Finger1
+    400082: Robert R Finger11
+    400084: Robert R Finger12
+    400086: Robert R Finger2
+    400088: Robert R Finger21
+    400090: Robert R Finger22
+    400092: Robert R Foot
+    400094: Robert R Forearm
+    400096: Robert R Hand
+    400098: Robert R Heel01
+    400100: Robert R Heel02
+    400102: Robert R Heel03
+    400104: Robert R Heel04
+    400106: Robert R Heel05
+    400108: Robert R Hip
+    400110: Robert R Thigh
+    400112: Robert R Toe
+    400114: Robert R UpperArm
+    400116: Robert Spine
+    400118: Robert Spine01
+    400120: //RootNode
+    400122: Root
+    7400000: Robert01_fall_forward
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Root
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cb78f386725f6aa479bfac05e304734b,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

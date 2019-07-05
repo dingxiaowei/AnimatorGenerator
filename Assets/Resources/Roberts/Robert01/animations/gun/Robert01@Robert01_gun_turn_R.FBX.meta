@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 255c21cb45e9c3c4db773635fd93e429
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Robert Head
+    100002: Robert L Calf
+    100004: Robert L Clavicle
+    100006: Robert L Clavicle01
+    100008: Robert L Clavicle02
+    100010: Robert L Clavicle03
+    100012: Robert L Clavicle04
+    100014: Robert L Finger0
+    100016: Robert L Finger01
+    100018: Robert L Finger02
+    100020: Robert L Finger1
+    100022: Robert L Finger11
+    100024: Robert L Finger12
+    100026: Robert L Finger2
+    100028: Robert L Finger21
+    100030: Robert L Finger22
+    100032: Robert L Foot
+    100034: Robert L Forearm
+    100036: Robert L Hand
+    100038: Robert L Heel01
+    100040: Robert L Heel02
+    100042: Robert L Heel03
+    100044: Robert L Heel04
+    100046: Robert L Heel05
+    100048: Robert L Hip
+    100050: Robert L Thigh
+    100052: Robert L Toe
+    100054: Robert L UpperArm
+    100056: Robert nub01
+    100058: Robert nub02
+    100060: Robert Pelvis
+    100062: Robert R Calf
+    100064: Robert R Clavicle
+    100066: Robert R Clavicle01
+    100068: Robert R Clavicle02
+    100070: Robert R Clavicle03
+    100072: Robert R Clavicle04
+    100074: Robert R Finger0
+    100076: Robert R Finger01
+    100078: Robert R Finger02
+    100080: Robert R Finger1
+    100082: Robert R Finger11
+    100084: Robert R Finger12
+    100086: Robert R Finger2
+    100088: Robert R Finger21
+    100090: Robert R Finger22
+    100092: Robert R Foot
+    100094: Robert R Forearm
+    100096: Robert R Hand
+    100098: Robert R Heel01
+    100100: Robert R Heel02
+    100102: Robert R Heel03
+    100104: Robert R Heel04
+    100106: Robert R Heel05
+    100108: Robert R Hip
+    100110: Robert R Thigh
+    100112: Robert R Toe
+    100114: Robert R UpperArm
+    100116: Robert Spine
+    100118: Robert Spine01
+    100120: //RootNode
+    100122: Root
+    400000: Robert Head
+    400002: Robert L Calf
+    400004: Robert L Clavicle
+    400006: Robert L Clavicle01
+    400008: Robert L Clavicle02
+    400010: Robert L Clavicle03
+    400012: Robert L Clavicle04
+    400014: Robert L Finger0
+    400016: Robert L Finger01
+    400018: Robert L Finger02
+    400020: Robert L Finger1
+    400022: Robert L Finger11
+    400024: Robert L Finger12
+    400026: Robert L Finger2
+    400028: Robert L Finger21
+    400030: Robert L Finger22
+    400032: Robert L Foot
+    400034: Robert L Forearm
+    400036: Robert L Hand
+    400038: Robert L Heel01
+    400040: Robert L Heel02
+    400042: Robert L Heel03
+    400044: Robert L Heel04
+    400046: Robert L Heel05
+    400048: Robert L Hip
+    400050: Robert L Thigh
+    400052: Robert L Toe
+    400054: Robert L UpperArm
+    400056: Robert nub01
+    400058: Robert nub02
+    400060: Robert Pelvis
+    400062: Robert R Calf
+    400064: Robert R Clavicle
+    400066: Robert R Clavicle01
+    400068: Robert R Clavicle02
+    400070: Robert R Clavicle03
+    400072: Robert R Clavicle04
+    400074: Robert R Finger0
+    400076: Robert R Finger01
+    400078: Robert R Finger02
+    400080: Robert R Finger1
+    400082: Robert R Finger11
+    400084: Robert R Finger12
+    400086: Robert R Finger2
+    400088: Robert R Finger21
+    400090: Robert R Finger22
+    400092: Robert R Foot
+    400094: Robert R Forearm
+    400096: Robert R Hand
+    400098: Robert R Heel01
+    400100: Robert R Heel02
+    400102: Robert R Heel03
+    400104: Robert R Heel04
+    400106: Robert R Heel05
+    400108: Robert R Hip
+    400110: Robert R Thigh
+    400112: Robert R Toe
+    400114: Robert R UpperArm
+    400116: Robert Spine
+    400118: Robert Spine01
+    400120: //RootNode
+    400122: Root
+    7400000: Robert01_gun_turn_R
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: Root
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Robert01_gun_turn_R
+      takeName: Robert01_turn_R
+      firstFrame: 10
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.37
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1.37
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton:
+    - name: Robert01(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: group30
+      parentName: Robert01(Clone)
+      position: {x: -0, y: 0, z: -0.000000011920932}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: group31
+      parentName: Robert01(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: Root
+      parentName: Robert01(Clone)
+      position: {x: -0, y: 0, z: 0.0000000054940563}
+      rotation: {x: 0.000000059604645, y: -5.551115e-17, z: -9.313226e-10, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert Pelvis
+      parentName: Root
+      position: {x: -0.0007787395, y: 1.0913506, z: -0.00000013559318}
+      rotation: {x: 1.3345792e-15, y: -0.0000000842937, z: -0.7071068, w: 0.70710677}
+      scale: {x: 0.1, y: 0.1, z: 0.1}
+    - name: Robert R Hip
+      parentName: Robert Pelvis
+      position: {x: -2.1625242, y: 1.8577873, z: -0.26730442}
+      rotation: {x: 0.7483084, y: -0.66259235, z: 0.020451883, w: 0.02424086}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Thigh
+      parentName: Robert R Hip
+      position: {x: -3.823413, y: 0.00008392334, z: 0.000000059604645}
+      rotation: {x: -0.014832967, y: -0.03730294, z: 0.7472066, w: 0.6633783}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Calf
+      parentName: Robert R Thigh
+      position: {x: -5.1016054, y: -0.0000023841858, z: -0.0000004172325}
+      rotation: {x: 0.0064750384, y: 0.24082282, z: 0.0015372233, w: 0.9705463}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Foot
+      parentName: Robert R Calf
+      position: {x: -4.0589323, y: -0.00000047683716, z: -0.0000019073486}
+      rotation: {x: -0.0029545703, y: -0.5768624, z: -0.00008501798, w: 0.816836}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Toe
+      parentName: Robert R Foot
+      position: {x: -5.681026, y: -0.0001244545, z: -0.0000104904175}
+      rotation: {x: 0.009135375, y: -0.35180455, z: 0.0011910618, w: 0.9360282}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Heel01
+      parentName: Robert R Foot
+      position: {x: -2.5744174, y: -0.016185284, z: 2.5194364}
+      rotation: {x: -0.6018627, y: -0.0025620956, z: 0.79859316, w: 0.0019172147}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Heel05
+      parentName: Robert R Heel01
+      position: {x: -0.02601254, y: 1.1045513, z: -0.012091398}
+      rotation: {x: -0.0365768, y: 0.87914175, z: 0.025315434, w: -0.47447988}
+      scale: {x: 1.000001, y: 1.000001, z: 1.000001}
+    - name: Robert R Heel03
+      parentName: Robert R Heel01
+      position: {x: -0.02601254, y: -1.0954499, z: -0.012090921}
+      rotation: {x: 0.059506107, y: 0.8793671, z: 0.009900936, w: -0.47230762}
+      scale: {x: 1, y: 1.000001, z: 1}
+    - name: Robert R Heel04
+      parentName: Robert R Foot
+      position: {x: -0.9681449, y: -1.3494244, z: 0.62292385}
+      rotation: {x: -0.011071715, y: 0.4166395, z: -0.040887777, w: 0.90808433}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Heel02
+      parentName: Robert R Foot
+      position: {x: -0.9682045, y: 1.3325715, z: 0.64008784}
+      rotation: {x: 0.016793065, y: 0.41622952, z: 0.047455348, w: 0.9078651}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Hip
+      parentName: Robert Pelvis
+      position: {x: -2.1625252, y: -1.8426625, z: -0.26730353}
+      rotation: {x: 0.024264004, y: -0.020473314, z: 0.6625823, w: 0.748316}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Thigh
+      parentName: Robert L Hip
+      position: {x: -3.823413, y: 0.000082969666, z: 0.000000074505806}
+      rotation: {x: 0.014700943, y: 0.03726533, z: 0.7471981, w: 0.6633929}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Calf
+      parentName: Robert L Thigh
+      position: {x: -5.1016035, y: -0.0000014305115, z: 0.00000008940697}
+      rotation: {x: -0.006474802, y: -0.24095334, z: 0.0015379925, w: 0.9705139}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Foot
+      parentName: Robert L Calf
+      position: {x: -4.0589314, y: -0.0000009536743, z: 0.0000009536743}
+      rotation: {x: 0.0030962126, y: 0.5769121, z: -0.00003307579, w: 0.81680036}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Toe
+      parentName: Robert L Foot
+      position: {x: -5.6810265, y: -0.00012397766, z: 0.000009536743}
+      rotation: {x: -0.009135598, y: 0.35180473, z: 0.0011912131, w: 0.9360281}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Heel01
+      parentName: Robert L Foot
+      position: {x: -2.5743566, y: -0.01653099, z: -2.5188725}
+      rotation: {x: -0.0019172741, y: -0.7985931, z: 0.002562303, w: 0.6018628}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Heel05
+      parentName: Robert L Heel01
+      position: {x: -0.023499489, y: -1.1047153, z: -0.014423132}
+      rotation: {x: 0.47463357, y: 0.024549745, z: 0.8790653, w: 0.036939878}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Heel03
+      parentName: Robert L Heel01
+      position: {x: -0.023500443, y: 1.0942793, z: -0.01442337}
+      rotation: {x: 0.47229937, y: 0.012310747, z: 0.87922615, w: -0.061182193}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Heel04
+      parentName: Robert L Foot
+      position: {x: -0.96814585, y: -1.3494248, z: -0.6229236}
+      rotation: {x: 0.011822522, y: -0.41648507, z: -0.04049578, w: 0.90816325}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Heel02
+      parentName: Robert L Foot
+      position: {x: -0.968205, y: 1.332571, z: -0.6400887}
+      rotation: {x: -0.019583208, y: -0.4161651, z: 0.046536103, w: 0.90788627}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert Spine
+      parentName: Robert Pelvis
+      position: {x: -5.211895, y: 0.007786563, z: 0.0058593755}
+      rotation: {x: -0.50107354, y: 0.49892434, z: 0.49892756, w: 0.50107}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert Spine01
+      parentName: Robert Spine
+      position: {x: 0.010907419, y: 0.8858261, z: 0.0000076293945}
+      rotation: {x: 0.50107336, y: -0.49892437, z: -0.49892753, w: 0.50107014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert Head
+      parentName: Robert Spine01
+      position: {x: -12.988825, y: 0.000003814454, z: 0.008851529}
+      rotation: {x: -0.0000006698807, y: 0.00000006338874, z: -0.00000023724058, w: 1}
+      scale: {x: 9.999999, y: 10, z: 10}
+    - name: Robert L Clavicle
+      parentName: Robert Spine01
+      position: {x: -7.338173, y: -4.1327157, z: -0.8943081}
+      rotation: {x: 0.000000080270915, y: 0.00000008062264, z: 0.6899566, w: 0.7238507}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L UpperArm
+      parentName: Robert L Clavicle
+      position: {x: -5.388857, y: -0.95106506, z: 0.09575462}
+      rotation: {x: 0.024348412, y: 0.00065058656, z: 0.028320903, w: 0.99930215}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Forearm
+      parentName: Robert L UpperArm
+      position: {x: -6.44788, y: 0, z: 0.0000014305115}
+      rotation: {x: -0.020997854, y: 0.04891713, z: 0.04217761, w: 0.99769104}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Hand
+      parentName: Robert L Forearm
+      position: {x: -8.289719, y: 1.3418102, z: -1.1826928}
+      rotation: {x: 0.00011647921, y: -0.014146915, z: -0.0046076747, w: 0.9998893}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger2
+      parentName: Robert L Hand
+      position: {x: -0.26744843, y: 0.85042286, z: -0.75797856}
+      rotation: {x: 0.00000067128656, y: 0.000000035549142, z: 0.0041586543, w: 0.99999136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger21
+      parentName: Robert L Finger2
+      position: {x: -1.8124013, y: 0.0001745224, z: -0.00000023841858}
+      rotation: {x: 0.000002591977, y: -0.000000052318587, z: -0.00034719845, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger22
+      parentName: Robert L Finger21
+      position: {x: -1.7684674, y: 0.00010871887, z: 0.00000023841858}
+      rotation: {x: -0.00000007615521, y: 0.000000014277553, z: 0.015482307, w: 0.99988014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger0
+      parentName: Robert L Hand
+      position: {x: -0.25138378, y: -1.0380974, z: 0.032200813}
+      rotation: {x: 0.0000048436627, y: 0.000000024973904, z: 0.005863863, w: 0.99998283}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger01
+      parentName: Robert L Finger0
+      position: {x: -1.8129716, y: 0.0000009536743, z: 0.00000023841858}
+      rotation: {x: -0.0000016345393, y: -0.0000000064307177, z: -0.003973138, w: 0.99999213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger02
+      parentName: Robert L Finger01
+      position: {x: -1.764998, y: -0.0000009536743, z: 0}
+      rotation: {x: 0.000000009644778, y: 0.000000007682029, z: -0.00531018, w: 0.99998593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger1
+      parentName: Robert L Hand
+      position: {x: -0.26744843, y: 0.8504133, z: 0.74789584}
+      rotation: {x: 0.00000067128656, y: 0.000000035549142, z: 0.0041586543, w: 0.99999136}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger11
+      parentName: Robert L Finger1
+      position: {x: -1.8124013, y: 0.0001745224, z: -0.00000023841858}
+      rotation: {x: 0.0000025695904, y: -0.000000015045082, z: -0.00034732523, w: 0.99999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Finger12
+      parentName: Robert L Finger11
+      position: {x: -1.7684674, y: 0.00010871887, z: 0}
+      rotation: {x: -0.000000043930342, y: -0.0000000122107044, z: 0.015482444, w: 0.99988014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert nub01
+      parentName: Robert L Forearm
+      position: {x: -7.9625196, y: -0.0000019073486, z: 0.0000019669533}
+      rotation: {x: 0.000010517829, y: 0.0028717532, z: 0.00040551476, w: 0.9999958}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Clavicle01
+      parentName: Robert L Clavicle
+      position: {x: -2.9532223, y: -0.6579304, z: 1.5622711}
+      rotation: {x: 0.30097857, y: 0.6398528, z: 0.63985294, w: 0.30097923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Clavicle03
+      parentName: Robert L Clavicle
+      position: {x: -2.9532223, y: -0.65792847, z: -1.5050333}
+      rotation: {x: 0.30097857, y: 0.6398528, z: 0.63985294, w: 0.30097923}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Clavicle
+      parentName: Robert Spine01
+      position: {x: -7.338169, y: 4.132999, z: -0.8943063}
+      rotation: {x: 0.7238508, y: -0.68995655, z: -0.000000072162045, w: 0.00000009648506}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R UpperArm
+      parentName: Robert R Clavicle
+      position: {x: -5.3888597, y: -0.95106125, z: -0.09575093}
+      rotation: {x: -0.02416058, y: -0.00065618, z: 0.028321024, w: 0.9993067}
+      scale: {x: 1.000001, y: 1, z: 1}
+    - name: Robert R Forearm
+      parentName: Robert R UpperArm
+      position: {x: -6.447874, y: 0, z: -0.00000011920929}
+      rotation: {x: 0.020997591, y: -0.048911393, z: 0.04218362, w: 0.9976911}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Hand
+      parentName: Robert R Forearm
+      position: {x: -8.289717, y: 1.3418083, z: 1.1826954}
+      rotation: {x: -0.0001161907, y: 0.014139394, z: -0.0046077548, w: 0.99988943}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger2
+      parentName: Robert R Hand
+      position: {x: -0.26744652, y: 0.8504238, z: 0.7579794}
+      rotation: {x: 0.000031336, y: -0.00031696356, z: 0.004290393, w: 0.99999076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger21
+      parentName: Robert R Finger2
+      position: {x: -1.8124003, y: 0.0006532669, z: 0.0011503696}
+      rotation: {x: -0.000052031734, y: 0.0003172496, z: -0.00047879166, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger22
+      parentName: Robert R Finger21
+      position: {x: -1.7684674, y: 0.00010967255, z: 0}
+      rotation: {x: 0.000018724859, y: -0.00000023201824, z: 0.015482337, w: 0.99988014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger0
+      parentName: Robert R Hand
+      position: {x: -0.25138092, y: -1.0380964, z: -0.032200813}
+      rotation: {x: -0.000020894242, y: 0.0000001839404, z: 0.005863781, w: 0.99998283}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger01
+      parentName: Robert R Finger0
+      position: {x: -1.8129725, y: 0, z: -0.00000035762787}
+      rotation: {x: 0.00001219378, y: -0.00000009862287, z: -0.0039732466, w: 0.99999213}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger02
+      parentName: Robert R Finger01
+      position: {x: -1.7649984, y: 0, z: 0.0000009536743}
+      rotation: {x: 0.000005389808, y: 0.000000054530826, z: -0.005309947, w: 0.99998593}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger1
+      parentName: Robert R Hand
+      position: {x: -0.26744843, y: 0.8504143, z: -0.74789536}
+      rotation: {x: 0.000031336, y: -0.00031696356, z: 0.004290393, w: 0.99999076}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger11
+      parentName: Robert R Finger1
+      position: {x: -1.8123989, y: 0.00065231323, z: 0.0011502504}
+      rotation: {x: -0.00005212859, y: 0.00031728682, z: -0.00047879163, w: 0.9999998}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Finger12
+      parentName: Robert R Finger11
+      position: {x: -1.7684674, y: 0.00011062622, z: 0}
+      rotation: {x: 0.000018672294, y: -0.0000002824048, z: 0.0154823065, w: 0.99988014}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert nub02
+      parentName: Robert R Forearm
+      position: {x: -7.962517, y: -0.0000038146973, z: -0.000000029802322}
+      rotation: {x: -0.000009087987, y: -0.0028717858, z: 0.00040528044, w: 0.9999958}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Clavicle01
+      parentName: Robert R Clavicle
+      position: {x: -2.9532232, y: -0.65792847, z: -1.5622693}
+      rotation: {x: 0.30097854, y: 0.63985264, z: 0.6398531, w: 0.3009792}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Clavicle03
+      parentName: Robert R Clavicle
+      position: {x: -2.9532232, y: -0.6579304, z: 1.5050333}
+      rotation: {x: 0.30097848, y: 0.63985276, z: 0.6398532, w: 0.300979}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Clavicle02
+      parentName: Robert Spine01
+      position: {x: -3.7539139, y: -4.8126216, z: 0.6679604}
+      rotation: {x: -0.6708211, y: -0.22360668, z: 0.22360705, w: 0.67081976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Clavicle02
+      parentName: Robert Spine01
+      position: {x: -3.75391, y: 4.8129044, z: 0.66796064}
+      rotation: {x: 0.6708206, y: -0.22360677, z: -0.22360691, w: 0.6708202}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert L Clavicle04
+      parentName: Robert Spine01
+      position: {x: -3.7539158, y: -4.8126216, z: -2.3993447}
+      rotation: {x: -0.67082155, y: -0.22360656, z: 0.22360736, w: 0.67081916}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Robert R Clavicle04
+      parentName: Robert Spine01
+      position: {x: -3.7539139, y: 4.8129044, z: -2.3993423}
+      rotation: {x: 0.67082083, y: -0.22360678, z: -0.22360717, w: 0.67081994}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 1
+    foreArmTwist: 1
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 9a60477233bced64d9b4cfcbdb56c786,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
